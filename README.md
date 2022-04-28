@@ -3,8 +3,8 @@ Fichiers pour le projet Télémesure de Consommation Electrique
 ______________________________________________________________
 
 Documentation :
-- Compteur EDF.pdf : Voir §5.2 (Sortie téléinformation client)
-- https://www.eztcp.com/en/products/cse-h53n.php : Documentation constructeur de la passerelle RS232-Ethernet CSE-H53
+- https://www.france-electric.com/Files/20851/IS_031006_Compteur_Landis_EDF_Mono_90A_ZCD12602_long.pdf : Compteur électrique : voir §5.2 (Sortie téléinformation client)
+- https://www.eztcp.com/en/products/cse-h53n.php : Passerelle RS232-Ethernet CSE-H53
 
 Exercices : 
 - tce1.php : Affichage de la trame téléinfo
