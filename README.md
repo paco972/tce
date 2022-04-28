@@ -2,6 +2,9 @@
 Fichiers pour le projet Télémesure de Consommation Electrique
 ______________________________________________________________
 
+Documentation :
+- Compteur EDF.pdf : Voir §5.2 (Sortie téléinformation client)
+
 Exercices : 
 - tce1.php : Affichage de la trame téléinfo
 - tce2.php : Affichage de la trame et extraction du champ ADCO
