@@ -4,6 +4,7 @@ ______________________________________________________________
 
 Documentation :
 - Compteur EDF.pdf : Voir §5.2 (Sortie téléinformation client)
+- https://www.eztcp.com/en/products/cse-h53n.php : Documentation constructeur de la passerelle RS232-Ethernet CSE-H53
 
 Exercices : 
 - tce1.php : Affichage de la trame téléinfo
