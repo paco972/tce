@@ -15,6 +15,8 @@ Consultation en temps réel :
 - tce.html : Affichage des données en tableau (Front-end)
 
 Consultation des données en base :
-- data.sql : Sauvegarde de la table data contenant 3 mesures
-- tce2db.php : API REST (Back-end)
-- db.html : Affichage des données sauvegardées en tableau (Front-end)
+- sc.sql : Sauvegarde des tables etudiant et entree
+- etudiants.php : API REST (Back-end)
+- SN1.html : Affichage de la liste des étudiants (Front-end)
+- createEtudiant.html : Formulaire pour ajouter un nouvel étudiant
+- updateEtudiant.html : Formulaire pour modifier les données d'un étudiant existant
